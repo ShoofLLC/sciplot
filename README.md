@@ -7,6 +7,10 @@
     <img src="docs/website/img/warning.svg" width=100%;" title="warning">
 </p>
 
+[![osx](https://github.com/ShoofLLC/sciplot/actions/workflows/osx.yml/badge.svg)](https://github.com/ShoofLLC/sciplot/actions/workflows/osx.yml)
+[![linux](https://github.com/ShoofLLC/sciplot/actions/workflows/linux.yml/badge.svg)](https://github.com/ShoofLLC/sciplot/actions/workflows/linux.yml)
+[![windows](https://github.com/ShoofLLC/sciplot/actions/workflows/windows.yml/badge.svg)](https://github.com/ShoofLLC/sciplot/actions/workflows/windows.yml)
+
 # Overview
 
 **So, you have an amazing C++ application for which you need plotting capabilities.** You have searched around and discovered that the available options for C++ plotting libraries is rather limited compared to other programming languages, such as Python, for example, which has [matplotlib].
